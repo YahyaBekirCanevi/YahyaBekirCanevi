@@ -3,6 +3,8 @@
 <!--
 **YahyaBekirCanevi/YahyaBekirCanevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="center"  src="https://github-profile-trophy.vercel.app/?username=YahyaBekirCanevi&no-frame=true&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&margin-w=15"> 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
