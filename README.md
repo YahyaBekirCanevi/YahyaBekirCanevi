@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### ⚙️ I use: `java`, `dart`, `javascript`
+#### ⚙️ I use: `java`, `dart`, `javascript`, `golang`
 
 #### Contact me
  - [Linkedin](https://www.linkedin.com/in/yahyabekircanevi/)
